@@ -44,4 +44,5 @@ https://drive.google.com/file/d/1o_wOReAmwExpQyEHJRTm3zzugqI2_arQ/view?usp=share
 
 ### 4. Dashboard:
 <img width="1009" alt="Screenshot 2024-07-18 at 10 45 01 AM" src="https://github.com/user-attachments/assets/faa3253e-3f7e-4987-8a70-e12a84474fde">
+<img width="1011" alt="Screenshot 2024-07-18 at 10 45 12 AM" src="https://github.com/user-attachments/assets/e5aba5b6-1f5d-4193-b5a0-3c67e70f515d">
 
