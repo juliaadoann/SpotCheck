@@ -35,6 +35,7 @@ https://drive.google.com/file/d/1o_wOReAmwExpQyEHJRTm3zzugqI2_arQ/view?usp=share
 ### 2. Payment:
 <img width="1013" alt="Screenshot 2024-07-18 at 10 39 44 AM" src="https://github.com/user-attachments/assets/0bb7c3a5-280d-440c-8d8b-51bb96714b95">
 <img width="1012" alt="Screenshot 2024-07-18 at 10 39 53 AM" src="https://github.com/user-attachments/assets/a1da5241-6a5a-4aa4-b7c5-346e50a5e46b">
+<img width="1011" alt="Screenshot 2024-07-18 at 10 40 03 AM" src="https://github.com/user-attachments/assets/de6bfc87-2b0b-4244-990f-a01c830d3332">
 
 ### 3. Analytics:
 <img width="1440" alt="Screenshot 2024-05-24 at 9 35 32 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/22f34cc3-c4f7-49e7-9710-c1117fba1789">
