@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1o_wOReAmwExpQyEHJRTm3zzugqI2_arQ/view?usp=share
 
 # Screenshots:
 ### 1. Login, Sign up, Reset password:
-
+<img width-"1437" alt="Screenshot " src="https://github.com/juliaadoann/SpotCheck/issues/1#issue-2415139878">
 
 ### 2. Payment:
 <img width="1437" alt="Screenshot 2024-05-24 at 9 34 25 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/254fa0e1-27ea-4fa1-8112-f839abe61508">
