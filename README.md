@@ -29,6 +29,8 @@ https://drive.google.com/file/d/1o_wOReAmwExpQyEHJRTm3zzugqI2_arQ/view?usp=share
 # Screenshots:
 ### 1. Login, Sign up, Reset password:
 <img width="1011" alt="Screenshot 2024-07-18 at 10 31 23 AM" src="https://github.com/user-attachments/assets/a5704d78-9dcb-49ca-ae2f-168d3cb2c7ea">
+<img width="1010" alt="Screenshot 2024-07-18 at 10 31 33 AM" src="https://github.com/user-attachments/assets/7d3b39f0-c558-4bde-bc24-a4e72a8e679f">
+
 
 ### 2. Payment:
 <img width="1437" alt="Screenshot 2024-05-24 at 9 34 25 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/254fa0e1-27ea-4fa1-8112-f839abe61508">
