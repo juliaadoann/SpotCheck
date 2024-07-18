@@ -39,8 +39,7 @@ https://drive.google.com/file/d/1o_wOReAmwExpQyEHJRTm3zzugqI2_arQ/view?usp=share
 <img width="1011" alt="Screenshot 2024-07-18 at 10 40 14 AM" src="https://github.com/user-attachments/assets/6eedda6b-8553-4211-8f9b-b723a243d8ca">
 
 ### 3. Analytics:
-<img width="1440" alt="Screenshot 2024-05-24 at 9 35 32 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/22f34cc3-c4f7-49e7-9710-c1117fba1789">
-<img width="1440" alt="Screenshot 2024-05-24 at 9 36 12 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/5a28e23d-232b-4fd0-a3a0-dfaae5dde0f7">
+<img width="1013" alt="Screenshot 2024-07-18 at 10 43 16 AM" src="https://github.com/user-attachments/assets/2131eebd-0aca-4f00-b560-9c0de3e9cab5">
 
 ### 4. Dashboard:
 <img width="1435" alt="Screenshot 2024-05-24 at 9 30 16 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/5190c58b-e37d-4516-9ab2-246d1c9daf65">
