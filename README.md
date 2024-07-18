@@ -43,9 +43,5 @@ https://drive.google.com/file/d/1o_wOReAmwExpQyEHJRTm3zzugqI2_arQ/view?usp=share
 <img width="1010" alt="Screenshot 2024-07-18 at 10 43 26 AM" src="https://github.com/user-attachments/assets/1ce3873b-112c-4cbe-8f62-00e151d65978">
 
 ### 4. Dashboard:
-<img width="1435" alt="Screenshot 2024-05-24 at 9 30 16 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/5190c58b-e37d-4516-9ab2-246d1c9daf65">
-<img width="1439" alt="Screenshot 2024-05-24 at 9 31 40 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/82fd5612-a88e-4747-aa7c-ceafd0d5ac76">
-<img width="1440" alt="Screenshot 2024-05-24 at 9 31 50 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/dce1f0f9-93bc-4642-b988-2b6f043f0e95">
-<img width="1438" alt="Screenshot 2024-05-24 at 9 30 55 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/19ff302c-704c-4efd-9d68-c899f06e6ad6">
-<img width="1440" alt="Screenshot 2024-05-24 at 9 32 11 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/0b03c037-c63b-4746-9fa9-c4a397aeb429">
-<img width="1440" alt="Screenshot 2024-05-24 at 9 39 47 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/1bae8f25-3ac4-42fc-829a-354a33c7c983">
+<img width="1009" alt="Screenshot 2024-07-18 at 10 45 01 AM" src="https://github.com/user-attachments/assets/faa3253e-3f7e-4987-8a70-e12a84474fde">
+
