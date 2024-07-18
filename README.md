@@ -40,6 +40,7 @@ https://drive.google.com/file/d/1o_wOReAmwExpQyEHJRTm3zzugqI2_arQ/view?usp=share
 
 ### 3. Analytics:
 <img width="1013" alt="Screenshot 2024-07-18 at 10 43 16 AM" src="https://github.com/user-attachments/assets/2131eebd-0aca-4f00-b560-9c0de3e9cab5">
+<img width="1010" alt="Screenshot 2024-07-18 at 10 43 26 AM" src="https://github.com/user-attachments/assets/1ce3873b-112c-4cbe-8f62-00e151d65978">
 
 ### 4. Dashboard:
 <img width="1435" alt="Screenshot 2024-05-24 at 9 30 16 PM" src="https://github.com/TonyPhan0505/SpotCheck-Web/assets/87828913/5190c58b-e37d-4516-9ab2-246d1c9daf65">
